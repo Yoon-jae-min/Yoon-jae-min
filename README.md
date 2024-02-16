@@ -1,6 +1,6 @@
 ## 테스트
 
-![badge](https://img.shields.io/badge/Hanbit%20Cat-Hello%20GitHub-orange)
+![badge](https://img.shields.io/badge/Practice%20Cat-Hello%20GitHub-orange)
 
 ### :octocat: 안녕하세요?
 
