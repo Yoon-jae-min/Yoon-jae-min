@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🕸️Jamin's Main</h1>
+  <h1>🕸️Jaemin's Main</h1>
 </div>
 
 
